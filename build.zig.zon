@@ -1,6 +1,7 @@
 .{
-    .name = "pretty",
-    .version = "0.10.4",
+    .name = .pretty,
+    .fingerprint = 0x478ad1a7469ef41,
+    .version = "0.0.0",
     .paths = .{
         "src",
         "build.zig",
